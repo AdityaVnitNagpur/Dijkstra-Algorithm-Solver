@@ -128,6 +128,16 @@ main ul > li {
   background-color: rgba(146, 146, 146, 0.4);
   transition-duration: 1s;
 }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #aaa;
+  padding: 2px 0;
+}
+
 .path::-webkit-scrollbar {
   display: none;
 }
